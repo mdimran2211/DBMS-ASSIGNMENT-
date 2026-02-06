@@ -2,8 +2,8 @@
 # 📚 DBMS Assignment
 
 ## 👨‍💻 Student Info
-Name: Imran  
-Course: BCA / BTech  
+Name:Md Imran  
+Course: BTech  
 Subject: DBMS  
 
 ## 🔍 Project Topic
@@ -11,7 +11,7 @@ College Database Management System
 
 ## 🛠 Tools Used
 - MySQL
-- XAMPP / MariaDB
+- XAMPP 
 - GitHub
 
 ## 📂 Files Included
