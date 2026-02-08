@@ -1,1 +1,13 @@
 
+-- Create table
+CREATE TABLE student(
+id INT PRIMARY KEY,
+name VARCHAR(50),
+marks INT
+);
+
+-- Insert data
+INSERT INTO student VALUES(1,'Imran',90);
+
+-- Select query
+SELECT * FROM student;
